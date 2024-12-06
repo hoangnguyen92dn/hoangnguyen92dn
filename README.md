@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hoangnguyen92dn/hoangnguyen92dn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi - "Xin chào" 👋 Nice to e-meet you!
+
+I am a seasoned software developer with over 10 years of experience, specializing in mobile and backend development. My passion for technology fuels my curiosity to explore new tools and methodologies, always eager to learn and grow. I also love sharing knowledge with others, believing in the value of collective growth. 🍀
+
+📍 **Based in** [Da Nang](https://maps.app.goo.gl/GJU24UVQWRx8qEvc9), Viet Nam 🇻🇳🏡♥️  
+
+🌟 **Technical Lead** at [Nimble](https://nimblehq.co/) 💻⌨️🖱  
+
+⏰️ **Daily Routine**: 🏃‍♂️ + 🍜 + ☕️ = 👨‍💻  
+
+✍️ **Personal Blog**: [hoangnl.dev](https://hoangnl.dev/)  
